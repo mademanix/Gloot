@@ -2,7 +2,6 @@
 #define PLUGIN_H
 
 #include <string>
-#include <list>
 
 template <class... Args>
 class 	Plugin {

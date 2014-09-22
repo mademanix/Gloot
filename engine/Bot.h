@@ -14,7 +14,7 @@ class 	Bot {
 	
 	private:
 		
-		std::map <PluginManager, int> list;
+		std::map <PluginManager, int> map;
 };
 
 #endif // BOT_H
